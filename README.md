@@ -70,5 +70,5 @@ dir=0 string write helper는 다음 위치에 적용.
 - `0x1ED16`
 
 ## 사용법
-1. https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip의 파일을 받아서 ezflash junior를 gb 파일 실행 후 업데이트. (!!!주의!!! 느린 SD카드 사용, 전원 부족시 문제 생길 가능성 있음)
+1. https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip 파일을 받아서 ezflash junior를 gb 파일 실행 후 업데이트. (!!!주의!!! 느린 SD카드 사용, 전원 부족시 문제 생길 가능성 있음)
 2. ezgb.dat 파일을 받아서 SD카드 파일 교체.
