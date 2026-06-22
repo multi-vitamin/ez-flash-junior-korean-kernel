@@ -1,5 +1,6 @@
 # ez-flash-junior-korean-kernel
-CODEX GPT 5.5를 사용해서 ezflash junior의 최신 버전(https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip)의 커널에 한국어 지원을 추가.
+ezflash junior의 최신 버전(https://www.ezflash.cn/zip/ezjunior-fw5-0918.zip) 커널에 한국어 지원을 추가.
+CODEX GPT 5.5를 이용해서 기능을 구현함.
 
 ## 변경 요약
 
